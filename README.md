@@ -1,5 +1,3 @@
-#PowerBI Reports Portfolio
-
 Welcome to my collection of PowerBI interactive dashboards - all in one place.
 
 
